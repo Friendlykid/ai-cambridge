@@ -1,0 +1,1 @@
+Doplnil jsem chybějící logiku v souborech `search.py` a `searchAgents.py`. Přidal jsem implementace grafového prohledávání pro DFS, BFS, UCS a A*, dokončil reprezentaci stavů pro `CornersProblem`, doplnil přípustné heuristiky a dokončil pomocné funkce pro hledání nejbližšího jídla. Výsledné řešení prochází lokálním autograderem pro otázky Q1–Q8.

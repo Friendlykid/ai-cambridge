@@ -1,0 +1,11 @@
+# This project does not require any mandatory third-party PyPI packages.
+#
+# Runtime dependencies found in source:
+# - Python standard library modules only
+# - tkinter for graphics mode (stdlib module, but may require an OS package
+#   such as python3-tk on some Linux distributions)
+#
+# Optional integration:
+# boinc
+#   Used only when a BOINC Python module is available; the import is guarded
+#   in game.py and the project runs without it.
